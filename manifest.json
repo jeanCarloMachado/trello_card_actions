@@ -1,7 +1,7 @@
 {
-  "name": "Getting Started Example",
+  "name": "Trello Card Actions",
   "version": "1.0",
-  "description": "Build an Extension!",
+  "description": "Do actions directly from the card",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "options_page": "options.html",
   "background": {
